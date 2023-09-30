@@ -1,0 +1,144 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    border-radius: 1292px;
+    background-color: #f8dbd9
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.nav_links ul{
+    list-style-type: none;
+    display: flex;
+    gap:20px;
+}
+button{
+    background-color: #F94A3D;
+    color: white;
+    border: none;
+}
+.links button{
+    border-radius: 5px;
+}
+#tag{
+    color: #F94A3D;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 25px;
+}
+.box{
+    width: 229px;
+    height: 46px;
+    border-radius: 23px;
+    background-color: #FDECEC;
+}
+h1{
+    font-size: 60px;
+    color:  #212244;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+}
+#last{
+    font-size: 60px;
+    color: #F94A3D;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+}
+pre{
+    font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+#btn-1{
+    background-color: #F94A3D;
+    border-radius: 16px;
+    width: 174px;
+    height: 60px;
+}
+.hero-section{
+    display: flex;
+    padding: 20px;
+}
+.food-section h1{
+    font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: 58px;
+}
+.text{
+    width: 300px;
+    height: 350px;
+    border: none;
+}
+#chicken{
+    color: #212244;
+    font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 58px;
+width: 300px;
+height: 350px;
+border: none;
+}
+#delivery{
+    color: #212244;
+    font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 58px;
+width: 300px;
+height: 350px;
+border: none;
+}
+.food-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 70px;
+}
+#heading{
+    text-align: center;
+    padding-bottom: 15px;
+}
+nav-1 ul{
+    list-style-type: none;
+    display: flex;
+    gap:30px;
+    align-items: center;
+    justify-content: center;
+}
+.recipe-1{
+    width: 200px;
+    height: 330px;
+    border: none
+    box-shadow:2px 3px 4px solid gray;
+}
+#price{
+    color: #F94A3D;
+}
+#cart{
+    border: 0.5px solid #F94A3D;
+    background-color: transparent;
+    color: #F94A3D;
+    border-radius: 5px;
+}
+.foods{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.box-1 img{
+    width: 1300px;
+    height: 800px;
+    padding: 40px;
+}
+#foot img{
+    padding-bottom: -260px;
+}
